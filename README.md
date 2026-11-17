@@ -245,4 +245,6 @@ Smart-Elevator-Control-Monitoring-System/
 
 ## Author
 
-**[Your Name]**: add your name and LinkedIn link here.
+Oumaima Cherieg Mednini: www.linkedin.com/in/
+oumaima-cherieg-mednini-79a46421b
+
