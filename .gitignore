@@ -1,0 +1,51 @@
+# --- Visual Studio / C# ---
+.vs/
+bin/
+obj/
+[Dd]ebug/
+[Rr]elease/
+x64/
+x86/
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
+*.pdb
+*.cache
+*.log
+*.tmp
+*.vspscc
+*.vssscc
+_ReSharper*/
+*.[Rr]e[Ss]harper
+.idea/
+.vscode/
+TestResults/
+packages/
+*.nupkg
+# Keep NuGet package restore config if present
+!**/packages/repositories.config
+
+# --- LabVIEW ---
+*.lvlps
+*.aliases
+*.bak
+*.vi.tmp
+LabVIEW Data/
+Builds/
+*.lvlibp
+
+# --- OS / editor temporary files ---
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+.DS_Store
+~$*
+*.swp
+*~
+
+# --- Large raw recordings (keep only the edited demo in Media/) ---
+Media/raw/
+Media/*_raw.*
+Enregistrement_*.mp4
+Smart_Elevator_TCP_vi_Block_Diagram_*.mp4

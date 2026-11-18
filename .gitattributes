@@ -1,0 +1,19 @@
+* text=auto
+*.cs text diff=csharp
+*.sln text eol=crlf
+*.csproj text
+*.md text
+
+# LabVIEW files are binary
+*.vi binary
+*.vit binary
+*.ctl binary
+*.ctt binary
+*.lvlib binary
+*.lvclass binary
+*.lvproj text
+
+# Media
+*.mp4 binary
+*.png binary
+*.jpg binary
